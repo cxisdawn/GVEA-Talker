@@ -1,0 +1,3 @@
+# ninja log v5
+0	16920	1723796107460188702	/root/autodl-tmp/zpf/our_nerf/raymarching/build/temp.linux-x86_64-cpython-310/root/autodl-tmp/zpf/our_nerf/raymarching/src/bindings.o	c90fda9bf84a6e23
+1	51696	1723796142247989056	/root/autodl-tmp/zpf/our_nerf/raymarching/build/temp.linux-x86_64-cpython-310/root/autodl-tmp/zpf/our_nerf/raymarching/src/raymarching.o	765b25771bd1f673

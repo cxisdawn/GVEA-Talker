@@ -1,0 +1,16 @@
+Collecting causal-conv1d
+  Using cached causal_conv1d-1.2.0.post2.tar.gz (7.1 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: torch in /home/medical/anaconda3/envs/cuda11.7/lib/python3.10/site-packages (from causal-conv1d) (1.13.0)
+Requirement already satisfied: packaging in /home/medical/.local/lib/python3.10/site-packages (from causal-conv1d) (24.0)
+Requirement already satisfied: ninja in /home/medical/anaconda3/envs/cuda11.7/lib/python3.10/site-packages (from causal-conv1d) (1.11.1.1)
+Requirement already satisfied: typing_extensions in /home/medical/.local/lib/python3.10/site-packages (from torch->causal-conv1d) (4.8.0)
+Building wheels for collected packages: causal-conv1d
+  Building wheel for causal-conv1d (setup.py): started
+  Building wheel for causal-conv1d (setup.py): finished with status 'done'
+  Created wheel for causal-conv1d: filename=causal_conv1d-1.2.0.post2-cp310-cp310-linux_x86_64.whl size=46602053 sha256=2a240e07c0c790724c0272aa986f9e2d3dc1730efcb1e26af49760d3c2fe174e
+  Stored in directory: /home/medical/.cache/pip/wheels/eb/8f/52/646c36c652677964016059dd0845960d162668451aeaaf4533
+Successfully built causal-conv1d
+Installing collected packages: causal-conv1d
+Successfully installed causal-conv1d-1.2.0.post2
